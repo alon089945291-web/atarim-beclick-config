@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": 1794356949232,
-  "sites": [],
+  "updatedAt": 1794357112713,
+  "sites": [
+    {
+      "id": "a-mwbduqjkrjz2x",
+      "name": "ערוץ ידיד נפש⚡",
+      "url": "https://yedid-nefesh.com/",
+      "description": "רגעים של חיזוק והשראה יומיים - מכל הלב❤️ - כה\"ש ©️",
+      "category": "חובת כניסה"
+    }
+  ],
   "announcement": {
     "active": false,
     "text": "",
